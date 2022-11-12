@@ -1,7 +1,7 @@
 name: USBIP Mounter
 slug: usbip
 startup: services
-url: https://github.com/irakhlin/hassio-usbip-mounter
+url: https://github.com/wolfgangpauli/hassio-usbip-mounter
 panel_icon: mdi:usb
 usbip: true
 usb: true
