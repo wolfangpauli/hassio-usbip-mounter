@@ -10,7 +10,7 @@ host_network: true
 apparmor: false
 version: 1.0.0
 description: USBIP Client Handler to attach USBIP devices to Hassio
-image: irakhlin/hassio-{arch}-usbip-mounter
+image: wolfgangpauli/hassio-{arch}-usbip-mounter
 init: false
 arch:
 - aarch64
